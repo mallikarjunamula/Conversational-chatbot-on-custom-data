@@ -1,0 +1,7 @@
+langchain
+streamlit_chat  
+streamlit
+sentence_transformers
+pinecone-client
+unstructured
+openai==0.28
